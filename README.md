@@ -133,7 +133,6 @@ Instead of just building a model, this project simulates how fraud detection sys
 * Add customer-level and external data
 * Build real-time fraud detection system
 * Deploy model using FastAPI
-* Create monitoring dashboard (Power BI / Streamlit)
 
 ---
 
